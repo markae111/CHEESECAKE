@@ -13,7 +13,7 @@ body{
 }
 /* HEADER SECTION  */
 .first{
-    background-image: url("images/IMG_0626.JPG");
+    background-image: url("images/IMG_0626.png");
 }
 .header{
     display: flex;
